@@ -1,10 +1,10 @@
-﻿# PRODUCTCATALOG-CTK-CTK
+﻿# PRODUCTCATALOG-CTK
 Installing and Running the Product Catalog CTK
 The Product Catalog CTK is dependent on the installation of node.js and Newman to work.
 The installation instructions for Newman are found here: https://www.getpostman.com/docs/newman_intro
 Node.js can be downloaded and installed from:
 http://nodejs.org/download/ 
-Once Node.js and Newman are installed download and unzip the PRODUCTCATALOG-CTK-CTK ZIP file within your test directory.
+Once Node.js and Newman are installed download and unzip the PRODUCTCATALOG-CTK ZIP file within your test directory.
 
 You should see the following files:
 -TMForumCatalogAPITestCollectionV#.postman_collection: the postman collection for the Mandatory tests
